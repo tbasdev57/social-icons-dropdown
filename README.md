@@ -1,53 +1,28 @@
-# 🖼️ Image Search App
+# Menu de Sélection des Icônes de Réseaux Sociaux 🌐
 
-Une application web moderne, rapide et responsive qui permet de rechercher et d’afficher des images en haute qualité grâce à l’API Unsplash. Idéale pour tous ceux qui cherchent de belles images sans prise de tête.
+Ce projet est un composant simple et élégant permettant d'afficher un menu de sélection de réseaux sociaux sous forme d'icônes interactives. Il est développé en **HTML**, **CSS**, et **JavaScript pur**.
 
----
+## 🔍 Aperçu
 
-## 📸 Aperçu
+Ce menu peut être utilisé dans n'importe quel site web pour permettre aux utilisateurs de :
 
-Recherchez facilement des images par mot-clé et explorez jusqu’à **1000 images uniques**, sans doublons. Chaque image est accompagnée d’une brève description. L'application s’adapte à tous les écrans pour une expérience fluide sur mobile, tablette ou desktop.
+- Accéder facilement à vos profils sociaux
+- Partager du contenu
+- Choisir une plateforme de contact
 
----
+![screenshot du menu ici](/chemin/vers/image.png)
 
-## 🚀 Fonctionnalités principales
+## 🚀 Technologies utilisées
 
-- 🔍 Recherche dynamique d’images via l’API Unsplash
-- 📜 Affichage des images avec description
-- 📱 Design responsive et adaptatif
-- 💨 Performance optimisée et chargement rapide
-- 🎨 Interface moderne avec Tailwind CSS
-- ✅ 1000 résultats uniques sans répétition
+- HTML5
+- CSS3 (Flexbox, transitions, hover effects)
+- JavaScript (pour interactions dynamiques)
 
----
+## 📦 Contenu
 
-## 🛠️ Technologies utilisées
 
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Unsplash API](https://unsplash.com/developers)
-- [Vite](https://vitejs.dev/) (ou CRA si tu as utilisé Create React App)
-
----
-
-## 🧑‍💻 Installation locale
-
-Voici comment exécuter le projet en local :
-
-### Prérequis
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Étapes
+## 📦 Installation
 
 ```bash
-# Cloner le repo
-git clone https://github.com/tbasdev57/image-search-app.git
-cd image-search-app
-
-# Installer les dépendances
-npm install
-
-# Lancer l'application en mode développement
-npm run dev
+git clone https://github.com/tbasdev57/social-icons-dropdown.git
+cd social-icons-dropdown
